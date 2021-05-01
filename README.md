@@ -4,7 +4,9 @@
 -->
 - 🌱 I’m currently learning Web development and DSA.
 - 💬 Ask me about C and C++ programming languages.
-- 📫 How to reach me: 
+- 📫 How to reach me:
+
+<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/instagram-logo-gif-9.gif" href="" width="30">    <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" href="https://www.linkedin.com/in/drishika-chauhan-647254206/" width="35">
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love singing🎤🎶🎧 and watching horror movies👻.
 
@@ -14,4 +16,3 @@
 - I am an Open Source contributor and a competitive coder 😉
 - Love to explore different tech stacks ♥🤩
 - GSSOC'21 participant 😀
-
