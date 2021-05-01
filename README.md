@@ -24,5 +24,5 @@
 
 ### Tech Stack:
 
-<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/vscode.png" height = "30" width = "40" hspace = "5"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/c.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/cpp.jpg" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/css.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/html5.jfif" height = "30" width = "30" hspace = "10">
+<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/vscode.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/c.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/cpp.jpg" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/css.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/html5.jfif" height = "30" width = "30" hspace = "10">
 
