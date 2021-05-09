@@ -10,6 +10,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love singing🎤🎶🎧 and watching horror movies👻.
 
+
 ### Connect with me📱:
 
 <a href="https://www.linkedin.com/in/drishika-chauhan-647254206/"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" width="35" height = "30" hspace="15"></a>
@@ -30,3 +31,7 @@
 
 <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/vscode.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/c.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/cpp.jpg" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/css.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/html5.jfif" height = "30" width = "30" hspace = "10">
 
+<br>
+
+![Followers](https://img.shields.io/github/followers/drishika2002?style=plastic)
+![Stars](https://img.shields.io/github/stars/drishika2002?affiliations=COLLABORATOR&style=plastic)
