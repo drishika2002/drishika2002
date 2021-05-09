@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/drishika-chauhan-647254206/"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" width="35" height = "30" hspace="15"></a>
 <a href ="https://www.instagram.com/drishika_dc16/"> <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
 
-<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right" hspace="0">
+<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right">
 
 ### 👧***More about me***:
 
