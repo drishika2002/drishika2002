@@ -12,6 +12,7 @@
 
 
 <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right">
+
 ### Connect with me📱:
 
 <a href="https://www.linkedin.com/in/drishika-chauhan-647254206/"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" width="35" height = "30" hspace="15"></a>
