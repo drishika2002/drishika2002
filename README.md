@@ -40,7 +40,7 @@
 ![Stars](https://img.shields.io/github/stars/drishika2002?affiliations=COLLABORATOR&style=plastic&color=blueviolet&label=STARS)
 ![](https://komarev.com/ghpvc/?username=drishika2002&color=green&style=plastic&label=PROFILE+VIEWS)
 
-[![Drishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight)](https://github.com/drishika2002/github-readme-stats)
+[![Drishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight&hide=stars)](https://github.com/drishika2002/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact)](https://github.com/drishika2002/github-readme-stats) -->
 
