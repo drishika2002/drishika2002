@@ -36,3 +36,6 @@
 ![Followers](https://img.shields.io/github/followers/drishika2002?style=plastic&color=red&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/drishika2002?affiliations=COLLABORATOR&style=plastic&color=blueviolet&label=STARS)
 ![](https://komarev.com/ghpvc/?username=drishika2002&color=green&style=plastic&label=PROFILE+VIEWS)
+
+[![Drishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishika2002)](https://github.com/drishika2002/github-readme-stats)
+
