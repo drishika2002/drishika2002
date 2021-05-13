@@ -34,7 +34,7 @@
 ### 💻 Tech Stack:
 <br>
 
-<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/vscode.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/c.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/cpp.jpg" height = "30" width = "35" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/css.jfif" height = "30" width = "30" hspace = "10"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/html5.jfif" height = "30" width = "35" hspace = "10">
+<img src="https://github.com/drishika2002/devicon/blob/master/icons/c/c-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/html5/html5-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/git/git-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/github/github-original.svg" height = "40" width = "40" hspace = "4">
 
 <br>
 
