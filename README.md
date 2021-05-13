@@ -11,12 +11,12 @@
 - ⚡ Fun fact about me: I love singing🎤🎶🎧 and watching horror movies👻.
 
 
+<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right">
 ### Connect with me📱:
 
 <a href="https://www.linkedin.com/in/drishika-chauhan-647254206/"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" width="35" height = "30" hspace="15"></a>
 <a href ="https://www.instagram.com/drishika_dc16/"> <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
 
-<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right">
 
 ### 👧***More about me***:
 
@@ -37,5 +37,7 @@
 ![Stars](https://img.shields.io/github/stars/drishika2002?affiliations=COLLABORATOR&style=plastic&color=blueviolet&label=STARS)
 ![](https://komarev.com/ghpvc/?username=drishika2002&color=green&style=plastic&label=PROFILE+VIEWS)
 
-[![Drishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishika2002)](https://github.com/drishika2002/github-readme-stats)
+[![Drishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight)](https://github.com/drishika2002/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact)](https://github.com/drishika2002/github-readme-stats) -->
 
