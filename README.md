@@ -10,7 +10,7 @@
 - 💬 Ask me about C and C++ programming languages.
 - 📫 How to reach me: Contact me on this mail -> drishika.dcs16@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact about me: I love singing🎤🎶🎧 and watching horror movies👻.
+- ⚡ Fun fact about me: I love singing🎤🎶🎧
 
 
 
