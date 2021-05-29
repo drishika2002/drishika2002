@@ -4,7 +4,7 @@
 -->
 
 
-<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/yo.png" align = "right">
+<img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/gif1.gif" align = "right">
 
 - 🌱 I’m currently learning Web development and DSA.
 - 💬 Ask me about C and C++ programming languages.
