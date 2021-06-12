@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/Hi.gif" width="25"> , I am Drishika Chauhan😎
+## Hi there <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/Hi.gif" width="25"> , I am Drishika Chauhan <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/emoji.gif" width="28">
 <!--
 **drishika2002/drishika2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
