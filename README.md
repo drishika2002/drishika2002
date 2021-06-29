@@ -47,5 +47,5 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact&theme=tokyonight)](https://github.com/drishika2002/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight&hide=stars" align="right" alt="Drishika">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact&theme=tokyonight)](https://github.com/drishika2002/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight&hide=stars" align="left" alt="Drishika">
  
