@@ -32,7 +32,7 @@
 (Read my blog on: <a href = "https://drishika-dcs16.medium.com/my-experience-as-gssoc21-participant-e1de025468e6">"My experience as GSSoC'21 participant"</a>)
 - *LGM SOC'21(An Open Source contribution program) participant* 😀
 
-<img src="https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight&hide=stars" align="right" alt="Drishika">
+
 
 ### 💻 Tech Stack:
 <br>
@@ -45,7 +45,8 @@
 ![Stars](https://img.shields.io/github/stars/drishika2002?affiliations=COLLABORATOR&style=plastic&color=blueviolet&label=STARS)
 ![](https://komarev.com/ghpvc/?username=drishika2002&color=green&style=plastic&label=PROFILE+VIEWS)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact)](https://github.com/drishika2002/github-readme-stats) -->
+## GitHub Stats
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&layout=compact&theme=tokyonight)](https://github.com/drishika2002/github-readme-stats) 
+<img src="https://github-readme-stats.vercel.app/api?username=drishika2002&count_private=true&theme=tokyonight&hide=stars" align="right" alt="Drishika">
  
