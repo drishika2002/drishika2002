@@ -24,7 +24,7 @@
 ### 👧 ***More about me***:
 
 
-- *I am a first year student at Jaypee Institute of Information Technology* 👩‍🎓
+- *Student at Jaypee Institute of Information Technology* 👩‍🎓
 - *Currently, I am pursuing B.Tech. in Computer Science and Engineering Branch* 🎓
 - *I am an Open Source contributor and I like competitive programming* 😉
 - *Love to explore different tech stacks* ♥🤩
