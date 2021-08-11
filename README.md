@@ -31,6 +31,7 @@
 - *GSSoC'21 participant* 😀 <br>
 (Read my blog on: <a href = "https://drishika-dcs16.medium.com/my-experience-as-gssoc21-participant-e1de025468e6">"My experience as GSSoC'21 participant"</a>)
 - *LGM SOC'21(An Open Source contribution program) participant* 😀
+(Read my blog on: <a href = "https://drishika-dcs16.medium.com/my-experience-with-lgmsoc21-d3ef4cad8f35">"My experience with LGM-SOC'21"</a>)
 
 
 
