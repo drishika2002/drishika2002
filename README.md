@@ -28,11 +28,9 @@
 - *Currently, I am pursuing B.Tech. in Computer Science and Engineering Branch* 🎓
 - *I am an Open Source contributor and I like competitive programming* 😉
 - *Love to explore different tech stacks* ♥🤩
-- *GSSoC'21 participant* 😀 <br>
-(Read my blog on: <a href = "https://drishika-dcs16.medium.com/my-experience-as-gssoc21-participant-e1de025468e6">"My experience as GSSoC'21 participant"</a>)
-- *LGM SOC'21(An Open Source contribution program) participant* 😀 <br>
-(Read my blog on: <a href = "https://drishika-dcs16.medium.com/my-experience-with-lgmsoc21-d3ef4cad8f35">"My experience as LGMSoC’21 Participant"</a>)
-
+- *GSSoC'21 (An Open Source contribution program) participant* 😀 
+- *LGM SOC'21 (An Open Source contribution program) participant* 😀 
+- *To read my blogs, click on: https://drishika-dcs16.medium.com/*
 
 
 ### 💻 Tech Stack:
