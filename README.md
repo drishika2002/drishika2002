@@ -15,13 +15,13 @@
 
 
 
-### 📱 Connect with me:
+## 📱 Connect with me:
 
 <a href="https://www.linkedin.com/in/drishika-chauhan-647254206/"><img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/linkedin.gif" width="35" height = "30" hspace="15"></a>
 <a href ="https://www.instagram.com/drishika_dc16/"> <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/instagram-logo-gif-9.gif" width="30" hspace="15"></a>
 
 
-### 👧 ***More about me***:
+## 👧 More about me:
 
 
 - *Student at Jaypee Institute of Information Technology* 👩‍🎓
@@ -33,7 +33,7 @@
 - *To read my blogs, click on:* https://drishika-dcs16.medium.com/
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <br>
 
 <img src="https://github.com/drishika2002/devicon/blob/master/icons/c/c-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/html5/html5-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height = "40" width = "40" hspace = "4"><img src="https://github.com/drishika2002/devicon/blob/master/icons/git/git-original.svg" height = "40" width = "40" hspace = "4"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"  hspace = "4"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height = "45" width = "45" hspace = "4">
