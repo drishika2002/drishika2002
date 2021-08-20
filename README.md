@@ -47,7 +47,7 @@
 ## 📊My GitHub Stats
 
 <a href="https://github.com/drishika2002/github-readme-stats"><img alt="Drishika Chauhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=drishika2002&show_icons=true&count_private=true&theme=tokyonight&hide=stars" /></a>
-<a href="https://github.com/drishika2002/github-readme-stats"><img alt="Drishika Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/drishika2002/github-readme-stats"><img alt="Drishika Chauhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishika2002&count_private=true&layout=compact&theme=tokyonight" /></a>
 
 ## 📉My Activity Graph
 <a href="https://github.com/drishika2002/github-readme-activity-graph"><img alt="Drishika Chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drishika2002&bg_color=0D1117&color=f0ffff&line=1dacd6&point=ffff99" /></a>
