@@ -24,13 +24,13 @@
 ## 👧 More about me:
 
 
-- *Student at Jaypee Institute of Information Technology* 👩‍🎓
-- *Currently, I am pursuing B.Tech. in Computer Science and Engineering Branch* 🎓
-- *I am an Open Source contributor and I like competitive programming* 😉
-- *Love to explore different tech stacks* ♥🤩
-- *GSSoC'21 (An Open Source contribution program) participant* 😀 
-- *LGM SOC'21 (An Open Source contribution program) participant* 😀 
-- *To read my blogs, click on:* https://drishika-dcs16.medium.com/
+- Student at Jaypee Institute of Information Technology 👩‍🎓
+- Currently, I am pursuing B.Tech. in Computer Science and Engineering Branch 🎓
+- I am an Open Source contributor and I like competitive programming 😉
+- Love to explore different tech stacks ♥🤩
+- GSSoC'21 (An Open Source contribution program) participant 😀 
+- LGM SOC'21 (An Open Source contribution program) participant 😀 
+- To read my blogs, click on:* https://drishika-dcs16.medium.com/
 
 
 ## 💻 Tech Stack:
