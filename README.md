@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on projects in Web development.
 - 📫 How to reach me: Contact me on this mail -> drishika.dcs16@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact about me: I love singing🎤🎶🎧
+- ⚡ Fun fact about me: I love singing🎤🎶🎧 and Momos Lover😍🤣
 
 
 
