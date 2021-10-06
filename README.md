@@ -30,7 +30,7 @@
 - Love to explore different tech stacks ♥🤩
 - GSSoC'21 (An Open Source contribution program) participant 😀 
 - LGM SOC'21 (An Open Source contribution program) participant 😀 
-- To read my blogs, click on:* https://drishika-dcs16.medium.com/
+- To read my blogs, click on: https://drishika-dcs16.medium.com/
 
 
 ## 💻 Tech Stack:
