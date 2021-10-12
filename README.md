@@ -40,7 +40,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=drishika2002&column=8&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=drishika2002&column=8&theme=discord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
