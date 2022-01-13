@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning Web development and DSA.
 - 💬 Ask me about C and C++ programming languages.
-- 🙌 Communities active with: <a href= "https://studentambassadors.microsoft.com/en-US/profile">Microsoft Learn Student Ambassador</a> and GDSC (JIIT,Noida)
 - 👯 I’m looking to collaborate on projects in Web development.
 - 📫 How to reach me: Contact me on this mail -> drishika.dcs16@gmail.com
 - 😄 Pronouns: she/her
@@ -31,6 +30,7 @@
 - Love to explore different tech stacks ♥🤩
 - GSSoC'21 (An Open Source contribution program) participant 😀 
 - LGM SOC'21 (An Open Source contribution program) participant 😀 
+- Communities active with: <a href= "https://studentambassadors.microsoft.com/en-US/profile/119580">Microsoft Learn Student Ambassador</a> and GDSC (JIIT,Noida)
 - To read my blogs, click on: https://drishika-dcs16.medium.com/
 
 
