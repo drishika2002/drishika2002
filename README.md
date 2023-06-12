@@ -6,13 +6,11 @@
 
 <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/gif1.gif" align = "right">
 
-- 🌱 I’m currently learning Web development and DSA.
-- 💬 Ask me about C and C++ programming languages.
-- 👯 I’m looking to collaborate on projects in Web development.
+- 🌱 A lifelong learner, constantly expanding my programming skills to stay updated in the ever-evolving technological landscape...
+- 👯 I’m looking to collaborate on projects in Web development(MERN), Machine learning and Deep Learning
 - 📫 How to reach me: Contact me on this mail -> drishika.dcs16@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me: I love singing🎤🎶🎧 and Momos Lover😍🤣
-
 
 
 ## 📱 Connect with me:
@@ -22,7 +20,6 @@
 
 
 ## 👧 More about me:
-
 
 - Student at Jaypee Institute of Information Technology 👩‍🎓
 - Currently, I am pursuing B.Tech. in Computer Science and Engineering Branch 🎓
