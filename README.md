@@ -6,7 +6,7 @@
 
 <img src="https://github.com/drishika2002/drishika2002/blob/main/images_gifs/gif1.gif" align = "right">
 
-- 🌱 A lifelong learner, constantly expanding my programming skills to stay updated in the ever-evolving technological landscape...
+- 🌱 A lifelong learner, constantly expanding my programming skills...
 - 👯 I’m looking to collaborate on projects in Web development(MERN), Machine learning and Deep Learning
 - 📫 How to reach me: Contact me on this mail -> drishika.dcs16@gmail.com
 - 😄 Pronouns: she/her
