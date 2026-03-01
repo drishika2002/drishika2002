@@ -3,7 +3,6 @@
 ## 👩‍💻 About Me
 
 - Associate Consultant in a **Fintech organization**
-- Working on transaction flows, accounting logic & settlement systems
 - Interested in backend architecture & low-level system design
 - Always improving core engineering fundamentals
 
